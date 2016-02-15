@@ -1,0 +1,22 @@
+{
+  "name": "myswig",
+  "version": "0.0.2",
+  "description": "extend some twig filter for swig",
+  "main": "index.js",
+  "scripts": {
+      "test": "node ./test/test"
+  },
+  "keywords": [
+    "twig",
+    "swig"
+  ],
+  "author": "animabear",
+  "license": "ISC",
+  "dependencies": {
+    "swig": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/animabear/myswig"
+  }
+}
